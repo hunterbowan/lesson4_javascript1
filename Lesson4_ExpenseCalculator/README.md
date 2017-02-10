@@ -10,7 +10,7 @@ LIS 2360:  Web Application Development
 Hunter Bowan
 
 ### Project Description:
-This project uses javascript to make a dynamic webpage that allows for user input and makes calculations and a results page
+This project uses javascript to make a dynamic webpage that allows for user input and makes calculations and a results page for a budget
 
 ### View Project:
 https://hunterbowan.github.io/lesson4_javascript1/
